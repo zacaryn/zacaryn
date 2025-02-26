@@ -4,6 +4,7 @@ I'm a Software Developer and AI Enthusiast based in Georgia, USA. I have a passi
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zacaryn&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zacaryn&layout=pie&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Zacaryn&theme=dark)](https://git.io/streak-stats)
 
 ## Activity
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zacaryn&theme=dark)
