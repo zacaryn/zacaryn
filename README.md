@@ -1,5 +1,5 @@
 ## About Me
-I'm a Software Developer and AI Enthusiast based in Georgia, USA. I have a passion for full-stack development, machine learning, and creating intuitive user interfaces. Currently, I'm exploring new technologies and frameworks to enhance my skill set.
+I'm a Software Developer based in Georgia, USA. I have a passion for full-stack development, machine learning, and creating intuitive user interfaces. Currently, I'm exploring new technologies and frameworks to enhance my skill set.
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zacaryn&show_icons=true&theme=dark)
