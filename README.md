@@ -10,4 +10,3 @@ I'm a Software Developer based in Georgia, USA. I have a passion for full-stack 
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zachwhead/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Zacaryn_)
