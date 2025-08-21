@@ -12,8 +12,8 @@ I'm a Software Developer based in Georgia, USA. I have a passion for full-stack 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zachwhead/)
 
 ## Client Work
-![Bluebird Mortgage](https://bluebirdmortgage.com)
-![Georgia National Guard Family Support Foundation](https://georgiaguardfamily.org)
-![HH6 Influential](https://hh6influential.com)
-![Dan Weihmiller, Realtor](https://danweihmiller.com)
-![Kestrel Works](https://kestrelworks.dev)
+[![Bluebird Mortgage](https://bluebirdmortgage.com)
+[![Georgia National Guard Family Support Foundation](https://georgiaguardfamily.org)
+[![HH6 Influential](https://hh6influential.com)
+[![Dan Weihmiller, Realtor](https://danweihmiller.com)
+[![Kestrel Works](https://kestrelworks.dev)
